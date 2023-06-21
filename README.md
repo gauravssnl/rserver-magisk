@@ -5,7 +5,7 @@ You can use this to log all TCP requests made by your Android phone.
 
 
 # Installation
-Download the zip from GitHub, extract it and create a new ZIP file containing all the files of this git repo. Install the zip file via Magisk and reboot.
+Download the `rserver-magisk.zip` file from releases section. Install the zip file via Magisk and reboot.
 
 Note : Magisk installs magisk modules in `/data/adb/modules` directory. We will use this path while running `rserver`.
 
